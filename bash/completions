@@ -1,0 +1,4 @@
+source ~/.bash/completion_scripts/homebrew
+source ~/.bash/completion_scripts/git
+complete -C ~/.bash/completion_scripts/rake -o default rake
+complete -C ~/.bash/completion_scripts/capistrano -o default cap
